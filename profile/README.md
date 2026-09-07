@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=syncdatasolutionsaj&label=Profile%20views&color=18181b&style=flat-square" alt="Profile views" /></p>
+
 <p align="center">
   <img src="../recursos/banner.jpg" width="820">
 </p>
