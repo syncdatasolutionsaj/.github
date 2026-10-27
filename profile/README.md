@@ -24,6 +24,10 @@ SyncData Solutions AJ es una empresa de tecnología dedicada al desarrollo de so
 
 Diseñamos tecnología orientada a necesidades reales, combinando arquitectura, experiencia, automatización e inteligencia para construir sistemas útiles, escalables y sostenibles.
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaIsabelJaramilloFernandez&theme=github_dark" alt="Ana Isabel" />
+</div>
+
 ---
 
 ## Qué hacemos
